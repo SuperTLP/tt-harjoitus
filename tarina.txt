@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 Tämä on pidempi pätkä tekstiä
+=======
+Tämä on pätkä tekstiä
+Tämä on toinen rivi
+>>>>>>> Stashed changes
+Toinen rivi
