@@ -1,2 +1,2 @@
 test (muutos github)
-toinen test
+toinen test (muutos terminal)
